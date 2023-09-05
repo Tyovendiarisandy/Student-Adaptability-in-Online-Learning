@@ -23,7 +23,7 @@ def main():
     # st.sidebar.subheader('Select Your Input!')
     gender = st.selectbox('Select Your Gender!', df['gender'].unique())
     age = st.selectbox('Select Your Age!', df['age'].unique())
-    education_level = st.selectbox('Select Your Study Years'!, df['education_level'].unique())
+    education_level = st.selectbox('Select Your Education Level!', df['education_level'].unique())
     institution_type = st.selectbox('Select Your Institution Type!', df['institution_type'].unique())
     it_student = st.selectbox('Are You an IT student?', df['it_student'].unique())
     location = st.selectbox('Is Your Location in The City/Town?', df['location'].unique())
