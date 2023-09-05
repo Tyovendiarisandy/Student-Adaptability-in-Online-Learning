@@ -14,7 +14,7 @@ model = pickle.load(open('xgb_fix_tuned.pkl','rb'))
     
 # create title (homepage)
 def main():
-    load_image = Image.open('./image.png')
+    load_image = Image.open('./image.jpg')
     st.image(load_image)
     st.title('The Student Adaptivity Level Prediction in Online Learning')
     st.subheader('Please input in the option box below!')
