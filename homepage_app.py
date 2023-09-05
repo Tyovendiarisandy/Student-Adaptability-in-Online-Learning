@@ -31,7 +31,7 @@ def main():
     financial_condition = st.selectbox('Select Your Financial Condition!', df['financial_condition'].unique())
     internet_type = st.selectbox('Select Your Internet Type!', df['internet_type'].unique())
     class_duration = st.selectbox('Select Your Class Duration!', df['class_duration'].unique())
-    self_lms = st.selectbox('Does Your Institution Have it's Own LMS?', df['self_lms'].unique())
+    self_lms = st.selectbox("Does Your Institution Have it's Own LMS?", df['self_lms'].unique())
     device = st.selectbox('Select Your Device!', df['device'].unique())
 
     # prediction - button for predict
