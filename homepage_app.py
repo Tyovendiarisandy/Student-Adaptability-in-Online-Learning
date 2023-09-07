@@ -58,13 +58,13 @@ def main():
 
         st.subheader('Prediction Result')
         if prediction[0] == 0:
-            st.markdown('<div style="background-color: red; padding: 10px; border-radius: 5px;">The Adaptability Level of Student is Low.</div>', unsafe_allow_html=True)
+            st.markdown('<div style="background-color: red; padding: 15px; border-radius: 5px; color: white;">The Adaptability Level of Student is Low.</div>', unsafe_allow_html=True)
         elif prediction[0] == 1:
-            st.markdown('<div style="background-color: yellow; padding: 10px; border-radius: 5px;">The Adaptability Level of Student is Moderate.</div>', unsafe_allow_html=True)
+            st.markdown('<div style="background-color: yellow; padding: 15px; border-radius: 5px; color: white;">The Adaptability Level of Student is Moderate.</div>', unsafe_allow_html=True)
         elif prediction[0] == 2:
-            st.markdown('<div style="background-color: green; padding: 10px; border-radius: 5px;">The Adaptability Level of Student is High.</div>', unsafe_allow_html=True)
+            st.markdown('<div style="background-color: green; padding: 15px; border-radius: 5px; color: white;">The Adaptability Level of Student is High.</div>', unsafe_allow_html=True)
         else:
-            st.success('<div style="background-color: grey; padding: 10px; border-radius: 5px;">Unknown Student Adaptability.</div>', unsafe_allow_html=True)
+            st.success('<div style="background-color: grey; padding: 15px; border-radius: 5px; color: white;">Unknown Student Adaptability.</div>', unsafe_allow_html=True)
 
     st.write('----')
     st.write('''
