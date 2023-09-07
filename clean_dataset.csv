@@ -1,0 +1,257 @@
+gender,age,education_level,institution_type,it_student,location,load_shedding,financial_condition,internet_type,class_duration,self_lms,device,adaptivity_level
+Male,21-25,University,Non Government,No,Yes,Low,Middle Class,Wifi,3-6,No,Tab,Moderate
+Female,21-25,University,Non Government,No,Yes,High,Middle Class,Mobile Data,1-3,Yes,Mobile,Moderate
+Female,16-20,College,Government,No,Yes,Low,Middle Class,Wifi,1-3,No,Mobile,Moderate
+Female,11-15,School,Non Government,No,Yes,Low,Middle Class,Mobile Data,1-3,No,Mobile,Moderate
+Female,16-20,School,Non Government,No,Yes,Low,Lower Class,Mobile Data,0,No,Mobile,Low
+Male,11-15,School,Non Government,No,Yes,Low,Lower Class,Mobile Data,1-3,No,Mobile,Low
+Male,11-15,School,Non Government,No,Yes,Low,Middle Class,Wifi,0,No,Mobile,Low
+Male,11-15,School,Non Government,No,Yes,Low,Middle Class,Wifi,1-3,No,Mobile,Moderate
+Male,16-20,College,Government,No,Yes,Low,Middle Class,Wifi,1-3,No,Mobile,Low
+Male,11-15,School,Non Government,No,Yes,Low,Middle Class,Mobile Data,1-3,No,Mobile,Moderate
+Female,16-20,University,Government,No,Yes,Low,Middle Class,Wifi,1-3,No,Mobile,Low
+Female,16-20,College,Non Government,No,Yes,Low,Middle Class,Wifi,1-3,No,Mobile,Low
+Male,11-15,School,Non Government,Yes,Yes,Low,Middle Class,Mobile Data,1-3,No,Mobile,Moderate
+Female,16-20,College,Non Government,No,No,Low,Middle Class,Wifi,1-3,No,Mobile,Low
+Female,11-15,School,Non Government,No,Yes,Low,Lower Class,Mobile Data,1-3,No,Mobile,Moderate
+Male,11-15,School,Non Government,No,Yes,High,Lower Class,Wifi,1-3,No,Mobile,Low
+Female,26-30,University,Government,Yes,Yes,Low,Lower Class,Mobile Data,0,No,Computer,Low
+Female,21-25,University,Government,No,No,Low,Middle Class,Wifi,1-3,No,Mobile,Low
+Female,16-20,College,Non Government,No,Yes,High,Middle Class,Wifi,1-3,No,Mobile,Low
+Female,16-20,College,Non Government,No,Yes,High,Middle Class,Wifi,3-6,No,Mobile,Moderate
+Female,6-10,School,Non Government,No,Yes,Low,Upper Class,Wifi,1-3,No,Mobile,High
+Male,6-10,School,Government,No,Yes,Low,Middle Class,Mobile Data,0,No,Mobile,Low
+Female,16-20,College,Non Government,No,No,Low,Middle Class,Mobile Data,3-6,Yes,Mobile,Low
+Female,11-15,School,Non Government,No,Yes,Low,Middle Class,Mobile Data,1-3,No,Mobile,Moderate
+Male,16-20,College,Government,No,Yes,Low,Middle Class,Wifi,3-6,No,Mobile,Moderate
+Male,11-15,School,Non Government,No,Yes,Low,Middle Class,Mobile Data,1-3,No,Mobile,Moderate
+Female,1-5,School,Non Government,No,Yes,Low,Middle Class,Mobile Data,1-3,No,Mobile,Moderate
+Male,26-30,University,Non Government,Yes,Yes,Low,Middle Class,Wifi,3-6,No,Computer,Moderate
+Female,6-10,School,Non Government,No,Yes,Low,Middle Class,Mobile Data,1-3,No,Mobile,Moderate
+Female,16-20,College,Non Government,No,No,Low,Middle Class,Mobile Data,1-3,No,Mobile,Low
+Male,21-25,University,Non Government,Yes,Yes,Low,Middle Class,Mobile Data,1-3,No,Mobile,Moderate
+Female,16-20,College,Non Government,No,Yes,Low,Middle Class,Wifi,1-3,No,Mobile,Moderate
+Female,21-25,University,Non Government,Yes,Yes,Low,Middle Class,Wifi,3-6,Yes,Mobile,Moderate
+Female,21-25,College,Government,Yes,Yes,Low,Middle Class,Mobile Data,1-3,No,Mobile,Moderate
+Female,6-10,School,Non Government,No,Yes,Low,Lower Class,Mobile Data,1-3,No,Mobile,High
+Female,26-30,University,Government,No,No,Low,Lower Class,Mobile Data,1-3,No,Mobile,Low
+Female,11-15,School,Government,No,Yes,Low,Middle Class,Wifi,1-3,No,Mobile,Low
+Male,21-25,University,Non Government,No,Yes,Low,Middle Class,Wifi,3-6,Yes,Computer,Moderate
+Female,21-25,University,Non Government,Yes,Yes,Low,Middle Class,Wifi,1-3,Yes,Mobile,Moderate
+Male,21-25,University,Non Government,Yes,Yes,Low,Middle Class,Wifi,3-6,Yes,Computer,Low
+Male,21-25,University,Non Government,Yes,Yes,Low,Middle Class,Wifi,1-3,No,Computer,Moderate
+Female,1-5,School,Non Government,No,Yes,Low,Lower Class,Mobile Data,1-3,No,Mobile,Moderate
+Male,21-25,University,Non Government,Yes,Yes,High,Middle Class,Mobile Data,3-6,Yes,Mobile,Moderate
+Male,26-30,University,Government,Yes,No,Low,Lower Class,Mobile Data,1-3,No,Mobile,Moderate
+Male,1-5,School,Non Government,No,Yes,Low,Lower Class,Mobile Data,1-3,No,Mobile,Low
+Male,21-25,University,Government,No,Yes,Low,Middle Class,Mobile Data,0,No,Mobile,Low
+Female,16-20,University,Non Government,Yes,Yes,Low,Middle Class,Mobile Data,1-3,No,Mobile,Low
+Female,11-15,School,Non Government,No,No,High,Middle Class,Mobile Data,0,No,Mobile,Low
+Male,16-20,School,Government,No,No,Low,Lower Class,Mobile Data,0,No,Mobile,Low
+Male,21-25,University,Non Government,No,Yes,Low,Middle Class,Wifi,3-6,No,Mobile,Moderate
+Male,21-25,College,Government,No,No,Low,Middle Class,Mobile Data,0,No,Mobile,Low
+Female,16-20,College,Non Government,No,Yes,Low,Middle Class,Mobile Data,1-3,Yes,Mobile,Moderate
+Male,11-15,School,Non Government,Yes,Yes,Low,Middle Class,Mobile Data,1-3,No,Mobile,Moderate
+Male,26-30,University,Government,No,No,Low,Middle Class,Mobile Data,1-3,No,Mobile,High
+Female,6-10,School,Government,No,No,Low,Middle Class,Mobile Data,0,No,Mobile,Low
+Female,11-15,School,Government,No,Yes,Low,Middle Class,Wifi,1-3,No,Mobile,Low
+Male,21-25,College,Government,No,No,High,Lower Class,Mobile Data,1-3,Yes,Mobile,Low
+Female,16-20,College,Government,No,No,Low,Middle Class,Mobile Data,0,No,Mobile,Low
+Female,11-15,School,Non Government,No,Yes,Low,Lower Class,Mobile Data,1-3,No,Mobile,Low
+Female,6-10,School,Non Government,No,Yes,Low,Middle Class,Mobile Data,1-3,No,Mobile,Low
+Female,21-25,College,Government,No,No,High,Middle Class,Mobile Data,0,No,Mobile,Low
+Female,11-15,School,Non Government,No,Yes,Low,Middle Class,Mobile Data,3-6,No,Mobile,Moderate
+Female,11-15,School,Government,No,No,Low,Middle Class,Mobile Data,0,No,Mobile,Low
+Male,11-15,School,Non Government,No,Yes,Low,Middle Class,Mobile Data,1-3,No,Mobile,High
+Male,11-15,School,Non Government,No,Yes,High,Middle Class,Wifi,1-3,No,Mobile,Moderate
+Male,26-30,University,Government,No,No,Low,Lower Class,Mobile Data,0,No,Mobile,Low
+Male,21-25,University,Non Government,No,No,Low,Middle Class,Mobile Data,1-3,No,Mobile,Moderate
+Male,21-25,University,Non Government,Yes,Yes,Low,Middle Class,Wifi,3-6,Yes,Computer,Moderate
+Male,21-25,University,Non Government,Yes,Yes,Low,Middle Class,Wifi,3-6,Yes,Computer,Moderate
+Male,21-25,University,Non Government,Yes,Yes,High,Lower Class,Mobile Data,1-3,Yes,Mobile,Low
+Female,16-20,University,Non Government,Yes,Yes,Low,Middle Class,Wifi,1-3,No,Computer,Moderate
+Female,11-15,School,Government,No,No,High,Lower Class,Mobile Data,1-3,No,Mobile,Low
+Male,21-25,University,Non Government,Yes,Yes,Low,Middle Class,Wifi,1-3,Yes,Mobile,Moderate
+Female,11-15,School,Non Government,No,Yes,Low,Middle Class,Wifi,1-3,No,Computer,Moderate
+Female,16-20,College,Non Government,No,No,High,Middle Class,Mobile Data,0,No,Mobile,Low
+Female,1-5,School,Non Government,No,Yes,Low,Lower Class,Wifi,1-3,No,Mobile,Moderate
+Male,11-15,School,Government,No,Yes,Low,Middle Class,Wifi,1-3,No,Computer,Moderate
+Female,21-25,University,Non Government,No,Yes,Low,Middle Class,Wifi,1-3,Yes,Mobile,High
+Male,11-15,School,Government,No,No,Low,Middle Class,Mobile Data,0,No,Mobile,Low
+Male,21-25,University,Non Government,Yes,Yes,High,Lower Class,Mobile Data,1-3,Yes,Mobile,Moderate
+Female,16-20,College,Non Government,No,Yes,Low,Middle Class,Wifi,3-6,No,Mobile,Moderate
+Male,26-30,University,Government,Yes,Yes,Low,Middle Class,Wifi,0,No,Computer,Low
+Male,21-25,University,Non Government,Yes,Yes,High,Middle Class,Wifi,3-6,Yes,Computer,Low
+Male,16-20,College,Government,No,No,High,Lower Class,Mobile Data,1-3,No,Mobile,Moderate
+Female,21-25,University,Non Government,Yes,No,Low,Middle Class,Mobile Data,1-3,Yes,Mobile,Moderate
+Female,16-20,College,Non Government,No,Yes,High,Middle Class,Wifi,3-6,No,Computer,Moderate
+Female,16-20,School,Non Government,No,Yes,Low,Middle Class,Wifi,1-3,No,Mobile,Low
+Female,16-20,University,Non Government,Yes,Yes,Low,Middle Class,Wifi,1-3,Yes,Computer,Moderate
+Female,21-25,University,Government,No,Yes,Low,Middle Class,Mobile Data,1-3,No,Mobile,Low
+Male,21-25,University,Non Government,Yes,Yes,Low,Upper Class,Wifi,1-3,Yes,Computer,High
+Male,21-25,University,Government,Yes,No,High,Middle Class,Mobile Data,1-3,No,Mobile,Low
+Male,21-25,University,Non Government,Yes,No,High,Middle Class,Mobile Data,3-6,Yes,Mobile,High
+Male,16-20,College,Government,No,Yes,Low,Lower Class,Mobile Data,1-3,No,Mobile,Low
+Male,21-25,University,Government,Yes,Yes,Low,Middle Class,Wifi,3-6,No,Computer,Low
+Female,21-25,University,Non Government,No,Yes,Low,Middle Class,Mobile Data,1-3,No,Mobile,Moderate
+Female,11-15,School,Non Government,Yes,Yes,Low,Middle Class,Mobile Data,1-3,No,Mobile,Moderate
+Female,16-20,College,Non Government,No,No,Low,Middle Class,Mobile Data,1-3,No,Mobile,Moderate
+Male,21-25,University,Government,No,No,Low,Lower Class,Mobile Data,1-3,No,Mobile,Low
+Male,21-25,University,Non Government,No,Yes,Low,Middle Class,Wifi,3-6,No,Computer,Moderate
+Male,21-25,University,Non Government,Yes,Yes,High,Lower Class,Wifi,3-6,No,Computer,Moderate
+Female,21-25,University,Non Government,No,Yes,High,Lower Class,Wifi,3-6,No,Mobile,Low
+Female,21-25,University,Government,No,No,Low,Middle Class,Mobile Data,1-3,No,Mobile,Low
+Male,16-20,College,Government,No,No,Low,Middle Class,Wifi,1-3,No,Mobile,Low
+Male,11-15,School,Non Government,No,Yes,Low,Upper Class,Mobile Data,1-3,No,Mobile,High
+Male,6-10,School,Non Government,No,Yes,Low,Upper Class,Wifi,1-3,No,Mobile,Moderate
+Male,21-25,University,Non Government,Yes,Yes,Low,Middle Class,Wifi,3-6,No,Computer,Low
+Male,21-25,University,Government,Yes,Yes,Low,Middle Class,Mobile Data,1-3,No,Computer,Low
+Male,26-30,University,Government,Yes,Yes,Low,Upper Class,Wifi,1-3,No,Computer,High
+Male,21-25,University,Non Government,Yes,Yes,High,Middle Class,Mobile Data,1-3,Yes,Computer,Moderate
+Male,21-25,University,Non Government,Yes,Yes,Low,Middle Class,Wifi,1-3,Yes,Mobile,Low
+Male,16-20,University,Government,No,No,Low,Lower Class,Mobile Data,1-3,No,Mobile,Moderate
+Male,6-10,School,Government,No,No,Low,Middle Class,Mobile Data,0,No,Mobile,Low
+Female,16-20,College,Government,No,No,High,Lower Class,Mobile Data,0,No,Mobile,Low
+Male,16-20,College,Government,Yes,Yes,Low,Middle Class,Mobile Data,1-3,Yes,Mobile,Low
+Male,21-25,University,Non Government,Yes,Yes,Low,Middle Class,Wifi,1-3,Yes,Computer,Moderate
+Female,26-30,University,Government,No,Yes,Low,Middle Class,Wifi,1-3,No,Mobile,Low
+Male,11-15,School,Government,No,Yes,Low,Middle Class,Mobile Data,1-3,No,Mobile,Moderate
+Female,11-15,School,Non Government,No,Yes,Low,Lower Class,Wifi,1-3,No,Mobile,Moderate
+Male,1-5,School,Non Government,No,Yes,Low,Middle Class,Wifi,1-3,No,Mobile,Low
+Female,1-5,School,Non Government,No,Yes,Low,Middle Class,Wifi,1-3,No,Mobile,Moderate
+Female,21-25,University,Non Government,No,Yes,Low,Upper Class,Wifi,3-6,No,Computer,Moderate
+Male,11-15,School,Non Government,Yes,Yes,Low,Lower Class,Mobile Data,1-3,No,Mobile,Moderate
+Male,11-15,School,Government,No,Yes,Low,Middle Class,Wifi,1-3,No,Mobile,High
+Female,21-25,University,Non Government,Yes,Yes,High,Middle Class,Wifi,3-6,Yes,Mobile,Low
+Female,16-20,School,Government,No,No,Low,Upper Class,Mobile Data,1-3,No,Mobile,High
+Female,16-20,College,Government,No,No,High,Middle Class,Mobile Data,1-3,No,Mobile,Low
+Male,16-20,School,Government,No,Yes,Low,Upper Class,Mobile Data,1-3,No,Mobile,Moderate
+Male,21-25,University,Non Government,Yes,Yes,High,Lower Class,Wifi,3-6,No,Mobile,Low
+Male,11-15,School,Non Government,No,Yes,Low,Middle Class,Mobile Data,3-6,No,Mobile,Moderate
+Female,21-25,University,Non Government,No,No,Low,Middle Class,Wifi,0,No,Mobile,Low
+Female,16-20,School,Non Government,No,Yes,Low,Middle Class,Wifi,0,No,Mobile,Low
+Male,21-25,University,Non Government,Yes,No,Low,Middle Class,Wifi,3-6,Yes,Computer,Moderate
+Male,21-25,University,Non Government,Yes,No,High,Lower Class,Mobile Data,3-6,Yes,Mobile,Moderate
+Female,26-30,University,Government,No,Yes,Low,Middle Class,Mobile Data,0,No,Mobile,Low
+Female,21-25,University,Non Government,No,Yes,Low,Middle Class,Wifi,3-6,No,Mobile,Moderate
+Male,21-25,University,Non Government,Yes,Yes,Low,Middle Class,Wifi,1-3,No,Mobile,Low
+Female,11-15,School,Government,No,Yes,Low,Upper Class,Wifi,1-3,No,Mobile,Moderate
+Female,16-20,College,Non Government,No,No,High,Middle Class,Wifi,3-6,No,Mobile,Moderate
+Male,21-25,University,Government,Yes,Yes,Low,Middle Class,Mobile Data,1-3,Yes,Mobile,Moderate
+Male,16-20,College,Government,No,Yes,High,Middle Class,Wifi,1-3,No,Mobile,Moderate
+Male,26-30,University,Government,Yes,Yes,Low,Upper Class,Wifi,1-3,No,Mobile,High
+Male,21-25,University,Non Government,Yes,Yes,Low,Middle Class,Mobile Data,3-6,Yes,Mobile,Low
+Female,16-20,University,Government,No,Yes,Low,Middle Class,Wifi,1-3,Yes,Mobile,Low
+Male,21-25,University,Non Government,No,Yes,Low,Lower Class,Mobile Data,1-3,Yes,Mobile,High
+Male,21-25,University,Non Government,No,No,Low,Lower Class,Mobile Data,1-3,Yes,Mobile,Low
+Male,11-15,School,Non Government,No,Yes,Low,Middle Class,Mobile Data,1-3,No,Mobile,Low
+Female,21-25,University,Non Government,Yes,Yes,High,Middle Class,Wifi,1-3,No,Mobile,Low
+Male,21-25,University,Non Government,Yes,Yes,High,Lower Class,Wifi,1-3,Yes,Computer,High
+Male,21-25,University,Non Government,No,No,Low,Middle Class,Mobile Data,1-3,Yes,Mobile,Moderate
+Male,21-25,College,Government,Yes,No,Low,Lower Class,Mobile Data,0,No,Mobile,Low
+Male,11-15,School,Non Government,No,Yes,Low,Lower Class,Mobile Data,1-3,No,Mobile,Moderate
+Female,21-25,University,Government,No,Yes,Low,Middle Class,Mobile Data,1-3,Yes,Mobile,Moderate
+Female,1-5,School,Government,No,Yes,Low,Upper Class,Mobile Data,1-3,Yes,Mobile,Low
+Male,21-25,University,Non Government,No,Yes,Low,Upper Class,Wifi,3-6,No,Tab,High
+Female,16-20,College,Government,No,No,High,Middle Class,Mobile Data,1-3,No,Mobile,Moderate
+Male,21-25,University,Non Government,No,Yes,Low,Upper Class,Wifi,3-6,No,Computer,High
+Male,21-25,University,Government,No,No,High,Lower Class,Mobile Data,3-6,No,Mobile,Moderate
+Female,16-20,School,Non Government,No,Yes,Low,Middle Class,Wifi,1-3,No,Computer,Low
+Male,16-20,College,Government,Yes,Yes,Low,Middle Class,Wifi,1-3,Yes,Tab,Moderate
+Male,11-15,School,Non Government,No,Yes,Low,Upper Class,Mobile Data,1-3,No,Mobile,Moderate
+Male,11-15,School,Non Government,No,Yes,Low,Lower Class,Mobile Data,1-3,No,Mobile,Moderate
+Female,21-25,University,Government,No,Yes,Low,Middle Class,Wifi,0,No,Mobile,Low
+Male,21-25,University,Non Government,No,Yes,Low,Middle Class,Mobile Data,0,No,Mobile,Low
+Male,21-25,University,Government,Yes,No,High,Middle Class,Mobile Data,1-3,No,Mobile,Moderate
+Male,11-15,School,Government,No,Yes,Low,Middle Class,Wifi,1-3,No,Mobile,Moderate
+Female,21-25,College,Government,No,No,High,Middle Class,Mobile Data,0,No,Mobile,Low
+Male,21-25,University,Government,Yes,Yes,Low,Middle Class,Wifi,1-3,No,Mobile,Low
+Male,21-25,University,Non Government,No,Yes,Low,Middle Class,Mobile Data,1-3,No,Mobile,Low
+Female,26-30,University,Government,No,No,Low,Lower Class,Mobile Data,0,No,Mobile,Low
+Male,16-20,School,Government,No,Yes,Low,Middle Class,Wifi,1-3,No,Mobile,Moderate
+Female,21-25,University,Non Government,Yes,Yes,Low,Middle Class,Wifi,3-6,Yes,Computer,Low
+Male,21-25,University,Non Government,Yes,No,High,Lower Class,Mobile Data,1-3,Yes,Mobile,Moderate
+Male,11-15,School,Non Government,No,Yes,Low,Lower Class,Mobile Data,3-6,No,Mobile,Moderate
+Male,16-20,College,Government,Yes,No,Low,Upper Class,Wifi,0,No,Mobile,Low
+Male,16-20,College,Government,Yes,Yes,Low,Middle Class,Mobile Data,1-3,No,Mobile,Moderate
+Female,16-20,College,Government,No,Yes,Low,Middle Class,Mobile Data,1-3,No,Mobile,Low
+Female,16-20,College,Government,No,Yes,Low,Middle Class,Wifi,1-3,No,Mobile,Moderate
+Male,26-30,University,Non Government,Yes,Yes,Low,Middle Class,Wifi,1-3,Yes,Mobile,Moderate
+Male,21-25,College,Government,Yes,Yes,Low,Middle Class,Mobile Data,1-3,No,Mobile,Moderate
+Male,21-25,University,Government,No,No,Low,Middle Class,Mobile Data,0,No,Mobile,Moderate
+Male,16-20,College,Government,No,Yes,Low,Middle Class,Wifi,1-3,Yes,Mobile,Moderate
+Male,26-30,University,Non Government,Yes,Yes,High,Lower Class,Mobile Data,1-3,Yes,Computer,Moderate
+Female,16-20,College,Non Government,No,Yes,Low,Middle Class,Wifi,3-6,No,Mobile,High
+Male,21-25,University,Government,Yes,Yes,Low,Middle Class,Mobile Data,1-3,No,Mobile,Low
+Male,21-25,University,Non Government,Yes,Yes,Low,Upper Class,Wifi,3-6,No,Mobile,Low
+Female,26-30,University,Government,No,Yes,Low,Middle Class,Wifi,0,No,Mobile,Low
+Male,21-25,University,Non Government,Yes,Yes,Low,Middle Class,Wifi,1-3,Yes,Computer,High
+Male,16-20,College,Government,No,No,High,Middle Class,Mobile Data,1-3,No,Mobile,Low
+Male,16-20,University,Government,No,Yes,Low,Middle Class,Wifi,1-3,Yes,Computer,Moderate
+Male,11-15,School,Non Government,No,Yes,High,Middle Class,Wifi,1-3,No,Computer,Low
+Female,21-25,University,Non Government,No,Yes,Low,Middle Class,Wifi,3-6,No,Tab,Moderate
+Male,16-20,College,Non Government,No,Yes,Low,Middle Class,Wifi,1-3,No,Mobile,Moderate
+Male,21-25,College,Government,No,Yes,Low,Middle Class,Mobile Data,1-3,No,Mobile,Low
+Female,11-15,School,Non Government,No,Yes,Low,Lower Class,Mobile Data,3-6,No,Mobile,Moderate
+Female,21-25,University,Non Government,Yes,Yes,Low,Upper Class,Wifi,3-6,No,Computer,High
+Male,1-5,School,Government,No,No,Low,Middle Class,Mobile Data,0,No,Mobile,Low
+Female,21-25,University,Government,No,Yes,Low,Lower Class,Mobile Data,0,No,Mobile,Low
+Female,11-15,School,Non Government,No,Yes,Low,Upper Class,Wifi,1-3,No,Mobile,High
+Male,21-25,University,Non Government,Yes,No,Low,Middle Class,Mobile Data,1-3,Yes,Computer,Moderate
+Male,11-15,School,Government,No,No,Low,Lower Class,Mobile Data,0,No,Mobile,Low
+Male,21-25,University,Government,No,Yes,Low,Middle Class,Mobile Data,1-3,Yes,Mobile,Low
+Male,21-25,University,Non Government,No,No,Low,Middle Class,Wifi,0,No,Mobile,Moderate
+Male,11-15,School,Non Government,No,Yes,Low,Middle Class,Wifi,1-3,No,Mobile,Low
+Male,26-30,University,Non Government,No,Yes,Low,Middle Class,Wifi,1-3,Yes,Mobile,Moderate
+Male,21-25,University,Government,No,No,High,Middle Class,Mobile Data,1-3,No,Mobile,Low
+Male,16-20,College,Government,No,Yes,High,Middle Class,Mobile Data,1-3,No,Mobile,Low
+Male,16-20,School,Government,No,No,Low,Middle Class,Wifi,1-3,No,Mobile,Moderate
+Female,21-25,University,Non Government,No,Yes,Low,Middle Class,Wifi,3-6,No,Computer,Moderate
+Male,16-20,College,Government,No,Yes,Low,Lower Class,Mobile Data,1-3,No,Mobile,Low
+Male,21-25,University,Non Government,Yes,Yes,Low,Middle Class,Wifi,1-3,Yes,Mobile,Moderate
+Male,16-20,College,Government,No,No,High,Lower Class,Mobile Data,1-3,No,Mobile,Low
+Male,21-25,University,Government,No,No,Low,Middle Class,Mobile Data,1-3,No,Mobile,Moderate
+Female,16-20,College,Government,No,No,Low,Middle Class,Mobile Data,1-3,No,Mobile,Low
+Male,6-10,School,Non Government,No,Yes,Low,Upper Class,Wifi,3-6,No,Mobile,High
+Male,21-25,University,Non Government,Yes,Yes,Low,Middle Class,Wifi,1-3,No,Computer,Moderate
+Male,26-30,University,Non Government,Yes,No,High,Middle Class,Mobile Data,1-3,No,Mobile,Moderate
+Male,11-15,School,Non Government,No,Yes,Low,Middle Class,Mobile Data,1-3,No,Mobile,Low
+Female,21-25,University,Non Government,Yes,No,High,Lower Class,Wifi,3-6,Yes,Tab,Low
+Female,21-25,University,Non Government,No,Yes,Low,Upper Class,Wifi,3-6,No,Tab,Moderate
+Male,21-25,University,Government,No,No,High,Middle Class,Wifi,0,No,Mobile,Low
+Female,6-10,School,Non Government,No,Yes,Low,Lower Class,Mobile Data,1-3,No,Mobile,Low
+Female,11-15,School,Non Government,Yes,Yes,Low,Middle Class,Mobile Data,1-3,No,Mobile,Moderate
+Male,26-30,University,Government,No,Yes,Low,Middle Class,Wifi,1-3,No,Mobile,Moderate
+Female,21-25,University,Government,No,Yes,Low,Middle Class,Wifi,0,Yes,Mobile,Low
+Female,11-15,School,Government,No,No,Low,Middle Class,Mobile Data,1-3,No,Mobile,Low
+Male,16-20,College,Government,Yes,No,Low,Middle Class,Mobile Data,0,No,Mobile,Low
+Female,16-20,University,Non Government,Yes,No,Low,Middle Class,Mobile Data,3-6,Yes,Mobile,Moderate
+Female,21-25,University,Non Government,No,No,Low,Middle Class,Wifi,1-3,No,Mobile,Moderate
+Female,21-25,University,Non Government,Yes,No,High,Middle Class,Wifi,1-3,Yes,Computer,Moderate
+Male,21-25,University,Non Government,No,Yes,High,Middle Class,Mobile Data,1-3,Yes,Mobile,Moderate
+Female,16-20,University,Non Government,Yes,No,High,Lower Class,Mobile Data,1-3,Yes,Mobile,Moderate
+Male,11-15,School,Non Government,No,Yes,Low,Upper Class,Wifi,1-3,No,Mobile,High
+Female,16-20,School,Non Government,No,Yes,Low,Middle Class,Mobile Data,0,No,Mobile,Low
+Female,16-20,College,Government,No,No,High,Middle Class,Mobile Data,1-3,No,Mobile,Moderate
+Male,21-25,University,Government,No,Yes,Low,Middle Class,Wifi,0,No,Mobile,Low
+Male,21-25,University,Government,No,No,Low,Middle Class,Mobile Data,1-3,No,Mobile,Low
+Female,21-25,University,Non Government,Yes,Yes,Low,Upper Class,Wifi,3-6,No,Computer,Moderate
+Male,16-20,College,Government,Yes,Yes,Low,Middle Class,Wifi,0,No,Mobile,Moderate
+Male,21-25,University,Government,No,Yes,Low,Middle Class,Mobile Data,3-6,No,Mobile,Moderate
+Male,11-15,School,Non Government,No,Yes,Low,Upper Class,Mobile Data,1-3,No,Mobile,High
+Male,11-15,School,Non Government,No,No,Low,Middle Class,Mobile Data,1-3,No,Mobile,Low
+Female,16-20,School,Government,No,Yes,Low,Middle Class,Mobile Data,1-3,No,Mobile,Low
+Female,11-15,School,Government,No,Yes,Low,Upper Class,Wifi,1-3,No,Mobile,Low
+Female,16-20,College,Non Government,No,Yes,Low,Middle Class,Wifi,1-3,No,Computer,Moderate
+Male,16-20,University,Government,No,Yes,Low,Middle Class,Wifi,3-6,Yes,Computer,Low
+Male,6-10,School,Non Government,No,Yes,Low,Middle Class,Mobile Data,1-3,No,Mobile,Low
+Male,6-10,School,Government,No,No,High,Middle Class,Mobile Data,0,No,Mobile,Low
+Female,6-10,School,Non Government,No,Yes,Low,Middle Class,Wifi,1-3,No,Mobile,High
+Male,11-15,School,Non Government,No,Yes,High,Lower Class,Wifi,0,No,Mobile,Low
+Male,16-20,College,Government,No,Yes,High,Middle Class,Mobile Data,1-3,No,Mobile,Moderate
+Female,21-25,University,Non Government,Yes,Yes,High,Middle Class,Wifi,3-6,Yes,Mobile,Moderate
+Male,21-25,University,Non Government,Yes,No,High,Middle Class,Mobile Data,3-6,No,Computer,Low
+Male,16-20,College,Government,No,Yes,Low,Middle Class,Mobile Data,1-3,No,Mobile,Moderate
+Female,16-20,College,Non Government,No,No,Low,Middle Class,Mobile Data,1-3,Yes,Mobile,Low
+Male,21-25,University,Non Government,Yes,No,High,Middle Class,Mobile Data,1-3,Yes,Mobile,Moderate
+Male,21-25,University,Non Government,Yes,Yes,Low,Middle Class,Mobile Data,3-6,No,Computer,Moderate
