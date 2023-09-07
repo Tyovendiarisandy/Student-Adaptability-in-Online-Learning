@@ -58,13 +58,13 @@ def main():
 
         st.subheader('Prediction Result')
         if prediction[0] == 0:
-            st.success('The Adaptability Level of Student is Low.')
+            st.markdown('<div style="background-color: red; padding: 10px; border-radius: 5px;">The Adaptability Level of Student is Low.</div>', unsafe_allow_html=True)
         elif prediction[0] == 1:
-            st.success('The Adaptability Level of Student is Moderate.')
+            st.markdown('<div style="background-color: yellow; padding: 10px; border-radius: 5px;">The Adaptability Level of Student is Moderate.</div>', unsafe_allow_html=True)
         elif prediction[0] == 2:
-            st.success('The Adaptability Level of Student is High.')
+            st.markdown('<div style="background-color: green; padding: 10px; border-radius: 5px;">The Adaptability Level of Student is High.</div>', unsafe_allow_html=True)
         else:
-            st.success('Unknown Condition.')
+            st.success('<div style="background-color: grey; padding: 10px; border-radius: 5px;">Unknown Student Adaptability.</div>', unsafe_allow_html=True)
 
     st.write('----')
     st.write('''
