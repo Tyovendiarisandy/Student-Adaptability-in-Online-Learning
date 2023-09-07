@@ -40,16 +40,16 @@ def main():
         input_data = pd.DataFrame({
         'gender': [gender],
         'age': [age],
-        'education_level': [study_years],
-        'institution_type': [cgpa],
-        'it_student': [marital_status],
-        'location': [depression],
-        'load_shedding': [anxiety],
-        'financial_condition': [panic_attack],
-        'internet_type': [seeking_treatment],
-        'class_duration': [seeking_treatment],
-        'self_lms': [seeking_treatment],
-        'device': [seeking_treatment],
+        'education_level': [education_level],
+        'institution_type': [institution_type],
+        'it_student': [it_student],
+        'location': [location],
+        'load_shedding': [load_shedding],
+        'financial_condition': [financial_condition],
+        'internet_type': [internet_type],
+        'class_duration': [class_duration],
+        'self_lms': [self_lms],
+        'device': [device],
         
         })
 
